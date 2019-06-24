@@ -1,1 +1,0 @@
-# exerciciosdia1
