@@ -34,7 +34,7 @@ public class Wrappers2 {
 		System.out.println("long: " + float1.longValue());
 		System.out.println("short: " + float1.shortValue() + "\n");
 		
-		Integer int1 = new Integer (355);
+		Integer int1 = new Integer (3557968);
 		
 		System.out.println("Teste Integer");
 		System.out.println("byte: " + int1.byteValue());
