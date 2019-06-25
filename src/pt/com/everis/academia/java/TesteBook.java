@@ -1,6 +1,7 @@
 package pt.com.everis.academia.java;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class TesteBook {
 
@@ -11,7 +12,7 @@ public class TesteBook {
 
 		System.out.println(book1.equals(book2));
 
-		ArrayList<Book> books = new ArrayList<>();
+		List<Book> books = new ArrayList<>();
 
 		books.add(new Book("a"));
 		books.add(new Book("b"));
