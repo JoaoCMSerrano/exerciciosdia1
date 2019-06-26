@@ -1,4 +1,4 @@
-package pt.com.everis.academia.java;
+package pt.com.everis.academia.java.aula3;
 
 public class Exercicio2 {
 
